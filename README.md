@@ -2,7 +2,7 @@
 First Attempt with Kamstrup FlowIQ 2200 with Birdz G3 module
 "frequency":868100000,"spreadingfactor":9,"signalbandwidth":125000,"codingrate":6,"preamblelength":8,"syncword":"0x34","enablecrc":false,"invertiq":false
 
-'''code
+```
 000000000000FBDF90 |470B41 |8C81 FBDF90 | 91002BAAE5AF
 000000000000FBDF90 |50A041 |8C81 FBDF90 | 4F007E3CC2B0
 000000000000FBDF90 |2EC741 |8C81 FBDF90 | 4F001D4133DE
@@ -14,7 +14,7 @@ First Attempt with Kamstrup FlowIQ 2200 with Birdz G3 module
 000000000000FBDF90 |970D3F |8C81 FBDF90 | 190232390348
 000000000000FBDF90 |632142 |8C81 FBDF90 | A30003A7E1A0
 000000000000FBDF90 |632142 |8C81 FBDF90 | A5002D32CB4E
-'''
+```
 
 IEEE OUI give :
 Address Prefix 90:df:fb (Big Endian)
