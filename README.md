@@ -16,6 +16,8 @@ First Attempt with Kamstrup FlowIQ 2200 with Birdz G3 module
 000000000000FBDF90 |632142 |8C81 FBDF90 | A5002D32CB4E
 ```
 
+Birdz G3 start with the 8C:81:24:xx:xx:xx mac address
+
 IEEE OUI give :
 Address Prefix 90:df:fb (Big Endian)
 Vendor / Company HOMERIDER SYSTEMS
@@ -23,4 +25,3 @@ Company Address 12 RUE REMORA GRADIGNAN GIRONDE FR 33170
 Start Address 90:df:fb:00:00:00
 End Address 90:df:fb:ff:ff:ff
 
-Birdz G3 PDF give the 8C:31: mac address :
