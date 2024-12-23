@@ -1,4 +1,25 @@
-# Veolia-Birdz-HomeRider
+# Veolia-Birdz-Kamstrup-HomeRider
+
+LoRaWAN®: LoRaWAN 1.0.4 class A
+1.10 Is the device already working on a public LoRaWAN network. No
+1.17 Is the payload structure available for decoding? No
+1.18 Is there a decode-API available ? No
+1.19 Is the firmware upgradeable and how? Yes With the B-TOOLZUP app (available on the Google Play store)
+2.1 DevEUI Range (IEEE Compliance): From : 90 DF FB 00 00 2E C0 00 To : Currently indetermined
+2.12 Is Activation Type OTAA the default: Yes
+2.13 For OTAA, is AppKey unique for each device? Yes
+2.17 Is the device doing a periodical rejoin? (only for OTAA): No
+2.18 Is the first join request sent on SF12? Yes
+2.19 On what SF and power setting is the first uplink (after join procedure) done? SF12
+2.20 Are you doing periodically reset of Uplink frame counter? No
+2.21 If LoRaWAN 1.0.x, DevNonce behaviour : Monotonically increasing never-wrapping counter
+2.31 LoRaWAN Stack Type (optional): Proprietary- Other, name it: Stack by Birdz
+2.33 LoRa Radio Hardware (optional): Proprietary: SX chip used: SX1262
+2.34 Multicast support (optional): No
+
+
+
+
 First Attempt with Kamstrup FlowIQ 2200 with Birdz G3 module
 "frequency":868100000,"spreadingfactor":9,"signalbandwidth":125000,"codingrate":6,"preamblelength":8,"syncword":"0x34","enablecrc":false,"invertiq":false
 
